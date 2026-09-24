@@ -40,6 +40,20 @@ while allowing administrators to manage exceptions and changes safely.
 
 ## Product Areas
 
+## Product Screenshots
+
+### Client Dashboard
+
+![Client Dashboard](Screenshot%202026-09-24%20at%2016.03.40.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](Screenshot%202026-09-24%20at%2016.04.06.png)
+
+### Onboarding / Platform Workflow
+
+![Platform Workflow](Screenshot%202026-09-24%20at%2016.04.53.png)
+
 ### Client Portal
 
 Clients can manage their account, complete onboarding, request plans, view their credits and receive relevant updates.
